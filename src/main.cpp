@@ -1,9 +1,3 @@
-/* Starting with Arduino OLED coding
- *  for " arduino oled i2c tutorial : 0.96" 128 X 32 for beginners"
- *  subscribe for more arduino Tuorials and Projects
-https://www.youtube.com/channel/UCM6rbuieQBBLFsxszWA85AQ?sub_confirmation=1
- */
-
 #include <Arduino.h>
 #include <SPI.h>
 #include <Wire.h>
